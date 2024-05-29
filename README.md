@@ -1,5 +1,11 @@
 # riverpod_graph_example
 
+install riverpod_graph
+```bash
+dart pub global activate -sgit https://github.com/rrousselGit/riverpod.git --git-path packages/riverpod_graph
+```
+
+add flutter_riverpod
 ```bash
 add flutter_rivflutter pub add \
 flutter_riverpod \
